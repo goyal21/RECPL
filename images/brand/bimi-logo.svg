@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 512 512" width="512" height="512">
+<title>Royal Engineering Consultancy Pvt Ltd</title>
+<rect width="512" height="512" fill="#0B0B0D"/>
+<g fill="#E62E3E">
+<path d="M111 111h196v34H145v162h-34z"/>
+<path d="M401 401H205v-34h162V205h34z"/>
+</g>
+<rect x="209" y="209" width="94" height="94" fill="#F7F7F8"/>
+</svg>
